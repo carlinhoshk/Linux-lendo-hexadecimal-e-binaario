@@ -12,4 +12,4 @@ edit(2) coloquei um Script Shell para facilitar a leitura, vai precisar dar o pe
 
 
 
-agora esrever ./comando.sh + arquivo 
+agora escrever ./comando.sh + arquivo 
