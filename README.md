@@ -13,7 +13,7 @@ edit(2) coloquei um Script Shell para facilitar a leitura, vai precisar dar o pe
 
 
 
-agora escrever ./comando.sh + arquivo 
+agora escrever ./ler_binario.sh ou ./ler_hexadecimal.sh + arquivo 
 
 
 ![](https://github.com/carlinhoshk/Linux-lendo-hexadecimal-e-binaario/blob/main/lendocomscriptsh.gif?raw=true)
